@@ -19,12 +19,12 @@ Webstack网址导航
 "一导航"未经允许推出的“Webstack Pro 版本”付费导航主题，跟本项目没有任何关系，在此解答[类似 Issues](https://github.com/WebStackPage/WebStackPage.github.io/issues/89)，已经和该公司多次沟通，该公司始终没有移除所有“Webstack Pro”相关名称，在这里郑重声明。
 目前 Webstack 已经有数十种完全免费开源后端版本，数十位共建者在维护本项目，本项目尊重各位共建者劳动成果实现盈利，但不鼓励任何盗用 **WebstackPro** 名义盈利的行为。
 
-![](https://github.com/WebStackPage/WebStackPage.github.io/blob/master/assets/images/webstack_no_pro.png)
+![](https://github.com/WebStackPage/WebStackPage.github.io/blob/master/assets/mages/websack_no_pro.png)
 
 
 
 |--|--|
-|![](http://www.webstack.cc/assets/images/qqgroup_webstack.jpg)|![](http://www.webstack.cc/assets/images/qqgroup_webstack2.jpg)|
+|![](http://www.webstack.cc/assets/images/qqgroup_webstack.jpg)|![](http://www.webstack.cc/assets/mages/qqgroup_webstack2.jpg)|
 
 怎么用?
 ---
